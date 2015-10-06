@@ -1,0 +1,23 @@
+{
+  "name": "@jayellsbrg/how-to-npm",
+  "version": "1.0.0",
+  "description": "how-to-npm tutorial",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jayellsbrg/how-to-npm.git"
+  },
+  "author": "Jordan Seaberg",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jayellsbrg/how-to-npm/issues"
+  },
+  "homepage": "https://github.com/jayellsbrg/how-to-npm#readme",
+  "dependencies": {
+    "@linclark/pkg": "^1.0.2"
+  },
+  "devDependencies": {}
+}
